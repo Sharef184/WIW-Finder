@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WIW-Finder/static/css/main.77b496d1.chunk.css",
+    "main.js": "/WIW-Finder/static/js/main.373b700a.chunk.js",
+    "main.js.map": "/WIW-Finder/static/js/main.373b700a.chunk.js.map",
+    "runtime~main.js": "/WIW-Finder/static/js/runtime~main.c65c891c.js",
+    "runtime~main.js.map": "/WIW-Finder/static/js/runtime~main.c65c891c.js.map",
+    "static/js/2.3d3626b9.chunk.js": "/WIW-Finder/static/js/2.3d3626b9.chunk.js",
+    "static/js/2.3d3626b9.chunk.js.map": "/WIW-Finder/static/js/2.3d3626b9.chunk.js.map",
+    "index.html": "/WIW-Finder/index.html",
+    "precache-manifest.41131b07f30d4e84e16840047d024971.js": "/WIW-Finder/precache-manifest.41131b07f30d4e84e16840047d024971.js",
+    "service-worker.js": "/WIW-Finder/service-worker.js",
+    "static/css/main.77b496d1.chunk.css.map": "/WIW-Finder/static/css/main.77b496d1.chunk.css.map"
+  }
+}
